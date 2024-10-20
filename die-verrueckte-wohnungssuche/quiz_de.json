@@ -1,0 +1,47 @@
+[
+    {
+        "question": "Was hatte der Vermieter auf seiner Schulter?",
+        "options": [
+            "Eine Katze",
+            "Einen Papagei",
+            "Einen Raben"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Wie war der Zustand des Schlosses?",
+        "options": [
+            "sehr gut",
+            "schlecht",
+            "mittelmäßig"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Was hat der Papagei die ganze Zeit gerufen?",
+        "options": [
+            "Ja, ja!",
+            "Nein, nein!",
+            "Vielleicht, vielleicht!"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Warum hat Sophia die Wohnung abgelehnt?",
+        "options": [
+            "Weil die Miete zu hoch war",
+            "Weil sie die Wohnung zu klein fand",
+            "Aus anderen Gründen"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Was hat Sophia überall in der Wohnung gesehen?",
+        "options": [
+            "Blumen",
+            "Spinnweben",
+            "Teppiche"
+        ],
+        "correct": 1
+    }
+]
