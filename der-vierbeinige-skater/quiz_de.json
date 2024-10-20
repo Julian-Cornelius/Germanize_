@@ -1,0 +1,47 @@
+[
+    {
+        "question": "Wo war Sophia, als sie den Hund auf dem Skateboard sah?",
+        "options": [
+            "Im Supermarkt",
+            "Im Park",
+            "Am Strand"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Wie reagierten die Leute im Park auf den Hund?",
+        "options": [
+            "Sie haben ihn verjagt",
+            "Sie haben angefangen zu klatschen",
+            "Sie haben den Besitzer beschimpft"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Wie schien der Hund sich zu fühlen?",
+        "options": [
+            "Traurig",
+            "Glücklich",
+            "Ängstlich"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Wie belohnte der Besitzer seinen Hund für das Skateboardfahren?",
+        "options": [
+            "Mit Spielzeug",
+            "Mit Leckerlis",
+            "Mit Klamotten"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Wie fand der Hund es, im Mittelpunkt zu stehen?",
+        "options": [
+            "Es war ihm unangenehm",
+            "Es war ihm peinlich",
+            "Er genoss es"
+        ],
+        "correct": 2
+    }
+]
