@@ -1,0 +1,47 @@
+[
+    {
+        "question": "Warum hat Sophie entschieden, in Kryptowährungen zu investieren?",
+        "options": [
+            "Sie hatte gehört, dass man damit viel Geld verdienen kann.",
+            "Sie wollte ihr Geld in etwas Spannendes investieren.",
+            "Sie hatte einen Tipp von einem Freund bekommen."
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Was passierte kurz nachdem Sophia Bitcoin und Ethereum gekauft hatte?",
+        "options": [
+            "Der Kurs stieg stark an.",
+            "Der Kurs blieb konstant.",
+            "Der Kurs stürzte ab."
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Wie hat Sophia reagiert, als der Kurs plötzlich abgestürzt ist?",
+        "options": [
+            "Sie war gelassen und entspannt.",
+            "Sie geriet in Panik.",
+            "Sie kaufte noch mehr Kryptowährungen."
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Was geschah, nachdem der Preis gefallen war?",
+        "options": [
+            "Der Preis blieb niedrig.",
+            "Der Preis stieg wieder an.",
+            "Der Preis fiel noch tiefer."
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Was war das Endresultat von Sophias Investment?",
+        "options": [
+            "Sie verlor alles, was sie investiert hatte.",
+            "Sie machte einen riesigen Gewinn.",
+            "Sie erhielt genau den Betrag zurück, den sie investiert hatte."
+        ],
+        "correct": 1
+    }
+]
