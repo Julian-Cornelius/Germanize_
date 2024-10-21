@@ -1,6 +1,6 @@
 [
     {
-        "question": "Wo war Sophia, als sie den Hund auf dem Skateboard sah?",
+        "question": "Wo war Lukas, als er den Hund auf dem Skateboard gesehen hat?",
         "options": [
             "Im Supermarkt",
             "Im Park",
@@ -9,10 +9,10 @@
         "correct": 1
     },
     {
-        "question": "Wie reagierten die Leute im Park auf den Hund?",
+        "question": "Wie haben die Leute im Park auf den Hund reagiert?",
         "options": [
             "Sie haben ihn verjagt",
-            "Sie haben angefangen zu klatschen",
+            "Sie waren erstaunt über ihn",
             "Sie haben den Besitzer beschimpft"
         ],
         "correct": 1
@@ -27,7 +27,7 @@
         "correct": 1
     },
     {
-        "question": "Wie belohnte der Besitzer seinen Hund für das Skateboardfahren?",
+        "question": "Wie hat der Besitzer seinen Hund fürs Skateboardfahren belohnt?",
         "options": [
             "Mit Spielzeug",
             "Mit Leckerlis",
