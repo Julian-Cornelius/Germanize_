@@ -1,0 +1,47 @@
+[
+    {
+        "question": "Where did Frederik and his friends go last summer?",
+        "options": [
+            "To the cinema",
+            "To an amusement park",
+            "To the museum"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "What did they do after the roller coaster ride?",
+        "options": [
+            "Eat ice cream",
+            "Go to the museum",
+            "Go to the cinema"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "What happened in the museum?",
+        "options": [
+            "A dog ran in",
+            "A bird flew into the museum",
+            "A child touched the statues"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Where did the bird sit?",
+        "options": [
+            "On Frederik's shoulder",
+            "On a statue",
+            "On the park guard"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Who finally caught the bird?",
+        "options": [
+            "Frederik",
+            "The park guard",
+            "A visitor"
+        ],
+        "correct": 0
+    }
+]

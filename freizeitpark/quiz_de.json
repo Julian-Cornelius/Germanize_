@@ -1,0 +1,47 @@
+[
+    {
+        "question": "Wo sind Frederik und seine Freunde letzten Sommer hingefahren?",
+        "options": [
+            "Ins Kino",
+            "In einen Freizeitpark",
+            "Ins Museum"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Was haben sie nach der Achterbahnfahrt gemacht?",
+        "options": [
+            "Eis essen",
+            "Ins Museum gehen",
+            "Ins Kino gehen"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Was ist im Museum passiert?",
+        "options": [
+            "Ein Hund ist hereingelaufen",
+            "Ein Vogel ist ins Museum geflogen",
+            "Ein Kind hat die Statuen berührt"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Wohin hat sich der Vogel gesetzt?",
+        "options": [
+            "Auf Frederiks Schulter",
+            "Auf eine Statue",
+            "Auf den Parkwächter"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Wer hat den Vogel schließlich eingefangen?",
+        "options": [
+            "Frederik",
+            "Der Parkwächter",
+            "Ein Besucher"
+        ],
+        "correct": 1
+    }
+]
