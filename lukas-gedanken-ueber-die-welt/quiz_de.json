@@ -1,0 +1,47 @@
+[
+    {
+        "question": "Worüber macht sich Lukas oft Gedanken?",
+        "options": [
+            "Über seine Arbeit",
+            "Über sein Leben und das Leben allgemein",
+            "Über das Wetter"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Wann kommen schwierige Gefühle auf?",
+        "options": [
+            "Wenn schlimme Dinge in der Welt passieren",
+            "Wenn Lukas hungrig ist",
+            "Wenn er zu viel arbeitet"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Was glaubt Lukas, warum die meisten Menschen nicht ehrlich sind?",
+        "options": [
+            "Weil sie Angst haben, abgelehnt zu werden",
+            "Weil sie gerne lügen",
+            "Weil sie keine Zeit zum Reden haben"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Was hält Lukas für sehr wichtig im Leben?",
+        "options": [
+            "Geld und Ruhm",
+            "Ein teures Auto",
+            "Beziehungen"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Was sollten wir uns laut Lukas in Erinnerung rufen?",
+        "options": [
+            "Dass wir alle perfekt sind",
+            "Dass wir alle verletzlich sind und Fehler machen",
+            "Dass wir keine Hilfe von anderen brauchen"
+        ],
+        "correct": 1
+    }
+]

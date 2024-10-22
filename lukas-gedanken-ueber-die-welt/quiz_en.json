@@ -1,0 +1,47 @@
+[
+    {
+        "question": "What does Lukas often think about?",
+        "options": [
+            "About his work",
+            "About his life and life in general",
+            "About the weather"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "When do difficult feelings arise?",
+        "options": [
+            "When terrible things happen in the world",
+            "When Lukas is hungry",
+            "When he works too much"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Why does Lukas think most people are not honest?",
+        "options": [
+            "Because they are afraid of being rejected",
+            "Because they like to lie",
+            "Because they don't have time to talk"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "What does Lukas consider very important in life?",
+        "options": [
+            "Money and fame",
+            "An expensive car",
+            "Relationships"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "What should we remember according to Lukas?",
+        "options": [
+            "That we are all perfect",
+            "That we are all vulnerable and make mistakes",
+            "That we don't need help from others"
+        ],
+        "correct": 1
+    }
+]
