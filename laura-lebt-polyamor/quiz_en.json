@@ -1,0 +1,47 @@
+[
+    {
+        "question": "Where did Laura experience something cool?",
+        "options": [
+            "In the restaurant",
+            "In the gym",
+            "In the cinema"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "What did the man give Laura?",
+        "options": [
+            "Tips for her workout",
+            "Tips for her nutrition",
+            "A compliment"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "What did he ask her?",
+        "options": [
+            "If she is married",
+            "If she has a boyfriend",
+            "If she is new to the gym"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "What does Laura love most?",
+        "options": [
+            "Meeting new people and flirting",
+            "Being alone",
+            "Having committed relationships"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "How did the man react to the concept of polyamory?",
+        "options": [
+            "He was upset",
+            "He found it interesting",
+            "He ignored it"
+        ],
+        "correct": 1
+    }
+]

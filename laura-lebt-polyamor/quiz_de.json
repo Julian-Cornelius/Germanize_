@@ -1,0 +1,47 @@
+[
+    {
+        "question": "Wo hat Laura etwas Cooles erlebt?",
+        "options": [
+            "Im Restaurant",
+            "Im Fitnessstudio",
+            "Im Kino"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Was hat der Mann Laura gegeben?",
+        "options": [
+            "Tipps für ihr Workout",
+            "Tipps für ihre Ernährung",
+            "Ein Kompliment"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Was hat er sie gefragt?",
+        "options": [
+            "Ob sie verheiratet ist",
+            "Ob sie einen Freund hat",
+            "Ob sie neu im Fitnessstudio ist"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Was liebt Laura besonders?",
+        "options": [
+            "Neue Menschen kennenzulernen und zu flirten",
+            "Allein zu sein",
+            "Feste Beziehungen zu haben"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Wie hat der Mann auf das Konzept der Polyamorie reagiert?",
+        "options": [
+            "Er war verärgert",
+            "Er fand es interessant",
+            "Er hat es ignoriert"
+        ],
+        "correct": 1
+    }
+]
