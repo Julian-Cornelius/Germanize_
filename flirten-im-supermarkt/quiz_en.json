@@ -1,0 +1,47 @@
+[
+    {
+        "question": "What does Sophia need at the supermarket?",
+        "options": [
+            "Muesli and bananas",
+            "Milk and bread",
+            "Eggs and sugar"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Where is the handsome man that Sophia sees?",
+        "options": [
+            "In front of the cucumbers",
+            "In front of the apples",
+            "In front of the oranges"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "What does the man say about Sophia's eyes?",
+        "options": [
+            "They are blue",
+            "They are green",
+            "They are beautiful"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "What does Sophia reply when the man offers her more beautiful apples?",
+        "options": [
+            "She laughs and says no",
+            "She laughs and says yes",
+            "She walks away"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "How many apples does Sophia buy in the end?",
+        "options": [
+            "Five",
+            "Ten",
+            "Twenty"
+        ],
+        "correct": 0
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "question": "Was braucht Sophia im Supermarkt?",
+        "options": [
+            "Müsli und Bananen",
+            "Milch und Brot",
+            "Eier und Zucker"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Wo steht der schöne Mann, den Sophia sieht?",
+        "options": [
+            "Vor den Gurken",
+            "Vor den Äpfeln",
+            "Vor den Orangen"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Was sagt der Mann über Sophias Augen?",
+        "options": [
+            "Sie sind blau",
+            "Sie sind grün",
+            "Sie sind schön"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Was antwortet Sophia, als der Mann ihr mehr schöne Äpfel anbietet?",
+        "options": [
+            "Sie lacht und sagt nein",
+            "Sie lacht und sagt ja",
+            "Sie geht weg"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Wieviele Äpfel kauft Sophia am Ende?",
+        "options": [
+            "Fünf",
+            "Zehn",
+            "Zwanzig"
+        ],
+        "correct": 1
+    }
+]
