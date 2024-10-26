@@ -1,0 +1,47 @@
+[
+    {
+        "question": "Was bedeutet FKK?",
+        "options": [
+            "Schwimmen und Sonnenbaden ohne Kleidung",
+            "Grillen im Park",
+            "Joggen im Wald"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Warum machen viele Menschen in Deutschland gerne FKK?",
+        "options": [
+            "Weil es günstig ist",
+            "Weil es sich frei und natürlich anfühlt",
+            "Weil es modisch ist"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Wo gibt es FKK-Strände?",
+        "options": [
+            "In den Alpen",
+            "An der Ostsee und Nordsee",
+            "Im Schwarzwald"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Was ist wichtig, wenn man FKK macht?",
+        "options": [
+            "Andere Leute nicht anstarren",
+            "Laut Musik hören",
+            "Essen mitbringen"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Wo gibt es oft FKK-Zonen?",
+        "options": [
+            "In Bibliotheken",
+            "In Schwimmbädern und an Seen",
+            "In Fitnessstudios"
+        ],
+        "correct": 1
+    }
+]

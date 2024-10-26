@@ -1,0 +1,47 @@
+[
+    {
+        "question": "What does FKK mean?",
+        "options": [
+            "Swimming without clothing",
+            "Grilling in the park",
+            "Jogging in the forest"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Why do many people in Germany enjoy FKK?",
+        "options": [
+            "Because it is cheap",
+            "Because it feels free and natural",
+            "Because it is fashionable"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Where are there designated FKK beaches?",
+        "options": [
+            "In the Alps",
+            "On the Baltic Sea and North Sea",
+            "In the Black Forest"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "What should you do when practicing FKK?",
+        "options": [
+            "Not stare at other people",
+            "Play loud music",
+            "Bring food"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "In which areas are FKK zones often found?",
+        "options": [
+            "In libraries",
+            "In swimming pools and at lakes",
+            "In gyms"
+        ],
+        "correct": 1
+    }
+]
