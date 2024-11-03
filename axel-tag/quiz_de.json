@@ -1,0 +1,47 @@
+[
+    {
+        "question": "Um wie viel Uhr ist Axel aufgewacht?",
+        "options": [
+            "5 Uhr",
+            "6 Uhr",
+            "7 Uhr"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Was isst Axel zum Frühstück?",
+        "options": [
+            "Toast",
+            "Müsli mit Früchten",
+            "Pfannkuchen"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Was hilft Axel gegen seine Müdigkeit?",
+        "options": [
+            "Kaffee",
+            "Ein Spaziergang",
+            "Frühstück"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Welchen Beruf hat Axel?",
+        "options": [
+            "Grafikdesigner",
+            "Programmierer",
+            "Lehrer"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Wo arbeitet Axel?",
+        "options": [
+            "In einer Schule",
+            "In einer Agentur",
+            "In einem Krankenhaus"
+        ],
+        "correct": 1
+    }
+]

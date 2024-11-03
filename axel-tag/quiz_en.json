@@ -1,0 +1,47 @@
+[
+    {
+        "question": "What time did Axel wake up?",
+        "options": [
+            "5 o'clock",
+            "6 o'clock",
+            "7 o'clock"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "What does Axel eat for breakfast?",
+        "options": [
+            "Toast",
+            "Muesli with fruits",
+            "Pancakes"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "What helps Axel with his tiredness?",
+        "options": [
+            "Coffee",
+            "A walk",
+            "Breakfast"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "What is Axel's profession?",
+        "options": [
+            "Graphic designer",
+            "Programmer",
+            "Teacher"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Where does Axel work?",
+        "options": [
+            "In a school",
+            "In an agency",
+            "In a hospital"
+        ],
+        "correct": 1
+    }
+]
